@@ -1,2 +1,1 @@
 # sap-cloud-platform
-
